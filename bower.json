@@ -1,0 +1,17 @@
+{
+  "name": "orcacontabilidade",
+  "description": "Orca Contabilidade",
+  "main": "index.html",
+  "authors": [
+    "Frederic Chien"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fredchien/orcacontabilidade",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
